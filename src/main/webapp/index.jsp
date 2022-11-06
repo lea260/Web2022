@@ -10,6 +10,8 @@
 	<h1>hello world</h1>
 	<a href="${pageContext.request.contextPath}/ClienteListar">listar
 		Clientes</a>
+	<a href="${pageContext.request.contextPath}/TestPool">TestPool
+		Clientes</a>
 	<!-- <a href="${pageContext.request.contextPath}/ServletPruebas">Ir a
 		pruebas</a> -->
 </body>

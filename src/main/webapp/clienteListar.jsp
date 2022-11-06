@@ -49,7 +49,7 @@
 		Cliente</a>
 	<p>
 		Usuario:
-		<%=param02%>
+		<!-- <%=param02%>  -->
 	</p>
 
 </body>

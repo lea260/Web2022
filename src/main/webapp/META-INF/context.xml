@@ -1,0 +1,9 @@
+<Context>
+	<Resource name="jdbc/bdprog01" auth="Container"
+		type="javax.sql.DataSource" maxActive="15" maxIdle="3" 
+		maxWait="5000"
+		username="root" password="1234567890"
+		driverClassName="com.mysql.cj.jdbc.Driver"
+		url="jdbc:mysql://127.0.0.1:3306/bdprog01?useUnicode=true;useJDBCCompliantTimezoneShift=true;useLegacyDatetimeCode=falseserverTimezone=UTC">
+	</Resource>
+</Context>
